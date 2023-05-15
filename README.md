@@ -12,7 +12,7 @@ You know who I am.<br>
 
 <html>
 
-<script src="https://tryhackme.com/badge/1468881"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/de4gle.png" alt="TryHackMe">
 
 </html>
  
