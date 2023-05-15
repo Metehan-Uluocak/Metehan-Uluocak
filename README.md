@@ -8,7 +8,7 @@ You know who I am.<br>
 ## 🌐 Socials:
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metehanuluocak@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehan-uluocak-286580223/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mete.ulck?igshid=MzRlODBiNWFlZA==)
 
-# L00K HERE 
+# L00K H3R3! 
 
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/de4gle.png" alt="TryHackMe">](https://tryhackme.com/p/de4gle)
