@@ -8,6 +8,15 @@ You know who I am.<br>
 ## 🌐 Socials:
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metehanuluocak@hotmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mete.ulck) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehan-uluocak-286580223/) 
 
+# L00K HERE BUT D0N'T CL1CK
+
+<html>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/de4gle.png" alt="TryHackMe">
+
+</html>
+ 
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
