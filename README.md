@@ -11,7 +11,7 @@ You know who I am.<br>
 # L00K H3R3! 
 
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/de4gle.png" alt="TryHackMe">](https://tryhackme.com/p/de4gle)
+[<script src="https://tryhackme.com/badge/1468881"></script>](https://tryhackme.com/p/de4gle)
 
 
  
